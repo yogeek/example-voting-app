@@ -1,5 +1,6 @@
 Example Voting App
 =========
+[![Try in PWD](https://cdn.rawgit.com/play-with-docker/stacks/cff22438/assets/images/button.png)](http://play-with-docker.com?stack=https://raw.githubusercontent.com/yogeek/example-voting-app/master/docker-stack.yml)
 
 Getting started
 ---------------
